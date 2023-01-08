@@ -75,7 +75,7 @@ def pause():
     paused = True
 
     message_to_screen("Пауза",
-                      RED,
+                      BLUE,
                       -100,
                       size="large")
 
